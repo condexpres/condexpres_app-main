@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "146442443540",
+    "firebase_url": "https://condexpres-banco-de-dados-default-rtdb.firebaseio.com",
+    "project_id": "condexpres-banco-de-dados",
+    "storage_bucket": "condexpres-banco-de-dados.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146442443540:android:66d2939a924e16fe490001",
+        "android_client_info": {
+          "package_name": "com.condexpress.alpha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146442443540-v1pql8o476p1809jmceq4eepv10r7ov5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.condexpress.alpha",
+            "certificate_hash": "42f54f26201070dde51c6d17ff2c531ba192a4cf"
+          }
+        },
+        {
+          "client_id": "146442443540-8lc3got91k5r34p6iunsv2o7a3u1nk6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIi_RDtCgAH2y-Lm8pps61GIbFRUBFbqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146442443540-8lc3got91k5r34p6iunsv2o7a3u1nk6b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "146442443540-c82mehlin6ba78ub5md44n8mluv6a5gn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.condexpressMain"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146442443540:android:714a61d199b0f810490001",
+        "android_client_info": {
+          "package_name": "com.condexpress.beta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146442443540-8lc3got91k5r34p6iunsv2o7a3u1nk6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIi_RDtCgAH2y-Lm8pps61GIbFRUBFbqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146442443540-8lc3got91k5r34p6iunsv2o7a3u1nk6b.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "146442443540-c82mehlin6ba78ub5md44n8mluv6a5gn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.condexpressMain"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
